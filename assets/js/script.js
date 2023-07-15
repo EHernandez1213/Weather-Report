@@ -1,5 +1,5 @@
-var weatherUrl = 'https://api.openweathermap.org/data/2.5/forecast?lat='
-var locationUrl = 'https://api.openweathermap.org/geo/1.0/direct?q='
+var weatherUrl = 'http://api.openweathermap.org/data/2.5/forecast?lat='
+var locationUrl = 'http://api.openweathermap.org/geo/1.0/direct?q='
 var key = 'b144468b3136528575a9b2333a4bed23'
 var search = document.querySelector('#search')
 var atlanta = document.querySelector('#atlanta')
